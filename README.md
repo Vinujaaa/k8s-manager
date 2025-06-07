@@ -1,5 +1,3 @@
-# Documentation
-
 # K8s Manager Script Documentation
 
 The K8s Manager script is for quickly setting up, deploying, and monitoring applications on Kubernetes with the KEDA (Kubernetes Event-Driven Autoscaling).
