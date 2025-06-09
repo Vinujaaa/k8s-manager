@@ -31,7 +31,7 @@ The K8s Manager script comes with several commands to make your Kubernetes life 
 
 Here is the overview of the script and commands - 
 
-![Screenshot 2025-03-20 at 22.55.33.png](Documentation%201bcbd0cd3eaf804880efdce7d40b0559/Screenshot_2025-03-20_at_22.55.33.png)
+![Screenshot 2025-03-20 at 22.55.33.png](./Screenshot.png)
 
 ### Checking and Installing kubectl
 
